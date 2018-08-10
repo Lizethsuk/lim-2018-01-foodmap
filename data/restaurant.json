@@ -1,0 +1,62 @@
+[
+  {
+    "name": "La Rosa Nautica",
+    "type": "comida variada",
+    "vicinity": "Miraflores, frente al mar",
+    "stars": 4.9
+  },
+   {
+    "name": "La Bisteca",
+    "type": "parrillas",
+    "vicinity": "Barranco, av. Almirante Grau 991",
+    "stars": 4.2
+  },
+    {
+    "name":"Chifa Felicidad",
+    "type": "comida oriental",
+    "vicinity": "Miraflores, frente al mar",
+    "stars": 4.1
+  },
+    {
+    "name":"Papa Johnns",
+    "type": "fastfood",
+    "vicinity": "Barranco, plaza",
+    "stars": 3.9
+  },
+  {
+    "name": "Rockys",
+    "type": "parrillas",
+    "vicinity": "Miraflores, frente al mar",
+    "stars": 3.5
+  },
+  {
+    "name": "El bajadón",
+    "type": "fastfood",
+    "vicinity": "Barranco, av. Balta",
+    "stars": 4.1
+  },
+   {
+    "name": "El tio Dan",
+    "type": "pizzas",
+    "vicinity": "Barranco, av. Almirante Grau 991",
+    "stars": 4.6
+  },
+    {
+    "name":"Chifa When Wha",
+    "type": "comida oriental",
+    "vicinity": "Barranco, av. Almirante Grau",
+    "stars": 3.1
+  },
+    {
+    "name":"El rocoto",
+    "type": "comida variada",
+    "vicinity": "Barranco, plaza Butters",
+    "stars": 3.8
+  },
+  {
+    "name": "Las Canastas",
+    "type": "parrillas",
+    "vicinity": "Surco, av. La castellana",
+    "stars": 4.0
+  }
+]

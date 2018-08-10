@@ -1,0 +1,49 @@
+
+body {
+  background-color:rgb(187, 163, 110);
+  color: black;
+
+}
+
+h1 {
+  background-color: black;
+  color: rgb(238, 195, 5);
+  font-family: 'Corben', cursive;
+  font-size: 45px;
+  font-style: inherit;
+}
+
+
+#restSelect{ 
+  border: 1px solid black ;
+  color: black;
+  width: 200px;
+  height: 38px;
+  border-radius: 12px;
+  font-size: 15px;
+  margin: 3px;
+}
+.listClass {
+  background-color: rgb(238, 195, 5);
+  border: 1px solid black ;
+  color: black;
+  margin-bottom: 3px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 12px;
+  font-size: 14px;
+  width: 150px;
+  height: 40px;
+  align-items: center
+  
+}
+
+
+#contModal{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+
+
