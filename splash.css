@@ -10,7 +10,6 @@ h2 {
     color: rgb(238, 195, 5);
     font-size: 55px;
     position: absolute;
-    font-family: 'Corben', cursive;
     left: 50%;
     top: 50%;
     transform: translateX(-50%) translateY(-50%);
